@@ -12,6 +12,7 @@ This is a chess project I made with my friend Ömer Kesen. Our goal was improve 
 - Captured Pieces
 - A very nice chesss board
 - Basic Chess
+- Its totally free
  
 
 ## How to Run It?
